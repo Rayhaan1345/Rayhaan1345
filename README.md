@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rayhaan1345
 - 👀 I’m interested in python software development
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on discord
+- 🌱 I’m currently learning python and Scratch through Harvard CS50
+- 💞️ I’m available to collaborate on discord
 - 📫 How to reach me Rayhaankhan1345@gmail.com
 
 <!---
