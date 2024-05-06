@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rayhaan1345
 - 👀 I’m interested in python software development
-- 🌱 I’m a research Intern at Brown University (Ivy League
+- 🌱 I’m a research Intern at Brown University (Ivy League)
 - 💞️ I’m available to collaborate on discord
 - 📫 How to reach me Rayhaankhan1345@gmail.com
 
