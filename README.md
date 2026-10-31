@@ -14,4 +14,4 @@ Website: [rayhaan1345.github.io](https://rayhaan1345.github.io)
 
 - [socratic-tutor](https://github.com/Rayhaan1345/socratic-tutor): a Claude plugin from Mumbai AI Lab that teaches by asking questions. Submitted to Anthropic's plugin directory.
 
-**Contact**: rayhaankhan1345@gmail.com · [LinkedIn](https://www.linkedin.com/in/rrkhanrayhaan/)
+**Contact**: <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rayhaan1345/Rayhaan1345/main/assets/email-dark.png"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rayhaan1345/Rayhaan1345/main/assets/email-light.png"><img src="https://raw.githubusercontent.com/Rayhaan1345/Rayhaan1345/main/assets/email-light.png" alt="Email address, shown as an image" height="22" align="absmiddle"></picture> · [LinkedIn](https://www.linkedin.com/in/rrkhanrayhaan/)
